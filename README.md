@@ -6,8 +6,8 @@
 
 ## Layer 0
 
-![layer0](./0.png)
+![layer0](./img/0.png)
 
 ## Layer 1
 
-![layer1](./1.png)
+![layer1](./img/1.png)
