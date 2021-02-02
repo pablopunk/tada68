@@ -11,3 +11,12 @@
 ## Layer 1
 
 ![layer1](./img/1.png)
+
+## Flash
+
+Click the reset button on the bottom of the keyboard. Now move the binary file to the external disk. Example in macOS:
+
+```bash
+command rm -rf /Volumes/TADA68\ \ /FLASH.BIN
+cp FLASH.bin /Volumes/TADA68\ \ /FLASH.BIN
+```
